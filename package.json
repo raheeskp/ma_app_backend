@@ -1,0 +1,20 @@
+{
+  "name": "sql_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.3",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "msnodesqlv8": "^4.2.1",
+    "mssql": "^11.0.1",
+    "nodemon": "^3.1.4"
+  }
+}
